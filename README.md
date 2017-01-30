@@ -18,3 +18,4 @@ Default vhost name: sg-course.dev
 
 ## Readings
 - [Understanding and Implementing FastCGI Proxying in Nginx](https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx)
+- [How PHP Executes – from Source Code to Render](https://www.sitepoint.com/how-php-executes-from-source-code-to-render/)
