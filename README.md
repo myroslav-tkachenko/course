@@ -15,3 +15,6 @@ Default vhost name: sg-course.dev
 ## Gitter
 - <https://gitter.im/sg-course-1/Lobby>
 - <https://gitter.im/sg-course-2/Lobby>
+
+## Readings
+- [Understanding and Implementing FastCGI Proxying in Nginx](https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx)
