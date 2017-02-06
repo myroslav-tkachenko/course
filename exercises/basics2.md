@@ -1,13 +1,13 @@
 1. Without using a PHP program to evaluate them, determine whether each of
 these expressions is true or false :
-* 100.00 - 100
-* "zero"
-* "false"
-* 0 + "true"
-* 0.000
-* "0.0"
-* strcmp("false","False")
-* 0 <=> "0"
+  * 100.00 - 100
+  * "zero"
+  * "false"
+  * 0 + "true"
+  * 0.000
+  * "0.0"
+  * strcmp("false","False")
+  * 0 <=> "0"
 2. Without running it through the PHP engine, figure out what this program prints:
 ```
 $age = 12;
