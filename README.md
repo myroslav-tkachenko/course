@@ -22,3 +22,4 @@ Default vhost name: sg-course.dev
 
 ## Exercises
 - [Basics 1](https://github.com/mirkinoid/course/blob/master/exercises/basics1.md)
+- [Basics 2](https://github.com/mirkinoid/course/blob/master/exercises/basics2.md)
