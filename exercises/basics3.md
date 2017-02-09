@@ -15,6 +15,7 @@
 Define an array (or arrays) that holds this information about locations and popu‐
 lations. Print a table of locations and population information that includes the
 total population in all 10 cities.
+
 2. Modify your solution to the previous exercise so that the rows in the result table
 are ordered by population. Then modify your solution so that the rows are
 ordered by city name.
@@ -27,10 +28,11 @@ Tip: For the tasks 1 and 2 you can use simple assoc. arrays:
         ...
     ]
 ```
+
 3. Modify your solution to the first exercise so that the table also contains rows that
 hold state population totals for each state represented in the list of cities.
 
-Tip: To complete this task (3.) you can structure the array's elements as a three-element arrays
+Tip: To complete this task (3) you can structure the array's elements as a three-element arrays
 containing city name, state, and population:
 ```
     [
@@ -45,6 +47,7 @@ containing city name, state, and population:
 1. Write a function to return an HTML <img /> tag. The function should accept a
 mandatory argument of the image URL and optional arguments for alt text,
 height, and width .
+
 2. Modify the function in the previous exercise so that only the filename is passed
 to the function in the URL argument. Inside the function, prepend a global vari‐
 able to the filename to make the full URL. For example, if you pass photo.png to
@@ -53,8 +56,10 @@ the returned <img> tag would be /images/photo.png . A function like this is an
 easy way to keep your image tags correct, even if the images move to a new path
 or server. Just change the global variable—for example, from /images/ to
 http://images.example.com/ .
+
 3. Put your function from the previous exercise in one file. Then make another file
 that loads the first file and uses it to print out some <img /> tags.
+
 4. What does the following code print out?
 ```
 <?php
