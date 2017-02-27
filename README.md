@@ -21,6 +21,7 @@ Default vhost name: sg-course.dev
 - [How PHP Executes – from Source Code to Render](https://www.sitepoint.com/how-php-executes-from-source-code-to-render/)
 - [PSR-1 - Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
 - [Create your own PHP Framework](https://symfony.com/doc/current/create_framework/index.html)
+- [Redis Documentation](https://redis.io/)
 
 ## Exercises
 - [Basics 1](https://github.com/mirkinoid/course/blob/master/exercises/basics1.md)
