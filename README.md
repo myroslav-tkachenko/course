@@ -7,7 +7,7 @@
 <https://prezi.com/user/wh4ve1dqdeam/>
 
 Lessons:
-- [PDO](https://github.com/mirkinoid/course/blob/master/exercises/basics1.md)
+- [PDO](https://github.com/mirkinoid/course/blob/master/materials/PDO.md)
 
 ## Vagrant config
 <https://github.com/mirkinoid/course/blob/master/puphpet.zip>
