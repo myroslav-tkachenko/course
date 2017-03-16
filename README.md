@@ -27,6 +27,9 @@ Default vhost name: sg-course.dev
 - [Redis Documentation](https://redis.io/)
 - [MySQL Cookbook, 3rd Edition](http://shop.oreilly.com/product/0636920032274.do)
 - [Introduction to Silex – A Symfony Micro-framework](https://www.sitepoint.com/introduction-silex-symfony-micro-framework/)
+- [Silex Book](http://silex.sensiolabs.org/pdf/2.0/Silex.pdf)
+- [Slim Tutorial: First Application](https://www.slimframework.com/docs/tutorial/first-app.html)
+- [Slim Tutorial: First Application - REPO](https://github.com/slimphp/Tutorial-First-Application)
 
 ## Exercises
 - [Basics 1](https://github.com/mirkinoid/course/blob/master/exercises/basics1.md)
